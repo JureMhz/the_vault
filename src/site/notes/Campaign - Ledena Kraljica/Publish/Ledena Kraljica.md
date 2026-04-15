@@ -35,4 +35,4 @@
 | Učilišče - Ognjena Pest                                     |                                                  | Taurus (Kiran) |
 | Zizola                                                      |                                                  | Alaric         |
 | utrdba Jarostin                                             |                                                  |                |
-test
+test 2
