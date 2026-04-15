@@ -9,10 +9,10 @@
 | **Karakter**                                                        | **Kdo**                                                           | **Kje**                          | **Kakšen** |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | ---------- |
 | Ledena Kraljica (Gandar)                                            | mogočen stvor, hag? fae? bog?                                     | nezano, a blizu                  | ❄️         |
-| [[Campaign - Ledena Kraljica/Publish/Leofuld Hrotgar\|Leofuld Hrotgar]]                                                 | wizard, elektrika                                                 | verjetno v Deumisu               | 🌩         |
-| [[Campaign - Ledena Kraljica/Publish/Pluto Mogočni\|Pluto Mogočni]]                                                   | wizard, fire; nickname: Esrim Fumgard                             |                                  | 🔥         |
-| [[Campaign - Ledena Kraljica/Publish/Tudor Lučnik\|Tudor Lučnik]]                                                    | wizard, transmutation, Small chunky elf                           |                                  | 🐑         |
-| [[Campaign - Ledena Kraljica/Publish/Ebenezer Tulp\|Ebenezer Tulp]] | čarodej, požigalec                                                |                                  | 🔥         |
+| [[Campaign - Ledena Kraljica/Publish/Characters/Leofuld Hrotgar\|Leofuld Hrotgar]]                                                 | wizard, elektrika                                                 | verjetno v Deumisu               | 🌩         |
+| [[Campaign - Ledena Kraljica/Publish/Characters/Pluto Mogočni\|Pluto Mogočni]]                                                   | wizard, fire; nickname: Esrim Fumgard                             |                                  | 🔥         |
+| [[Campaign - Ledena Kraljica/Publish/Characters/Tudor Lučnik\|Tudor Lučnik]]                                                    | wizard, transmutation, Small chunky elf                           |                                  | 🐑         |
+| [[Campaign - Ledena Kraljica/Publish/Characters/Ebenezer Tulp\|Ebenezer Tulp]] | čarodej, požigalec                                                |                                  | 🔥         |
 | Dond                                                                | trader, balon                                                     |                                  | 💰         |
 | Baltazar                                                            | preprodajalec magičnih predmetov, magična hiša: Magda             |                                  |            |
 | Noris Noke                                                          | nepridiprav                                                       | hiding, barely survived          |            |
@@ -30,8 +30,8 @@
 | ----------------------------------------------------------- | ------------------------------------------------ | -------------- |
 | stolp Trozid                                                |                                                  |                |
 | Ivji Vrh                                                    |                                                  |                |
-| [[Campaign - Ledena Kraljica/Publish/Deumis\|Deumis]]                                                  | glavno mesto kraljevine Deutanija 👑             |                |
-| [[Campaign - Ledena Kraljica/Publish/Štajerska\|Štajerska]] | forest gnome vas, skrita v gozdu, tempelj Eldath | Keeva          |
+| [[Campaign - Ledena Kraljica/Publish/Places/Deumis\|Deumis]]                                                  | glavno mesto kraljevine Deutanija 👑             |                |
+| [[Campaign - Ledena Kraljica/Publish/Places/Štajerska\|Štajerska]] | forest gnome vas, skrita v gozdu, tempelj Eldath | Keeva          |
 | Učilišče - Ognjena Pest                                     |                                                  | Taurus (Kiran) |
 | Zizola                                                      |                                                  | Alaric         |
 | utrdba Jarostin                                             |                                                  |                |
