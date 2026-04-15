@@ -26,11 +26,12 @@
 | Grishna Grozny                                                      | orkovski "poet"                                                   |                                  |            |
 # Lokacije
 
-| Lokacija        | Kaj                                  | Info              |
-| --------------- | ------------------------------------ | ----------------- |
-| stolp Trozid    |                                      |                   |
-| Ivji Vrh        |                                      |                   |
-| Deumis          | glavno mesto kraljevine Deutanija 👑 |                   |
-| Štajerska       |                                      | tempelj Eldath    |
-| Zizola          |                                      | Alaric background |
-| utrdba Jarostin |                                      |                   |
+| **Lokacija**                                                | **Kaj**                                          | **Info**       |
+| ----------------------------------------------------------- | ------------------------------------------------ | -------------- |
+| stolp Trozid                                                |                                                  |                |
+| Ivji Vrh                                                    |                                                  |                |
+| [[Campaign - Ledena Kraljica/Publish/Deumis\|Deumis]]                                                  | glavno mesto kraljevine Deutanija 👑             |                |
+| [[Campaign - Ledena Kraljica/Publish/Štajerska\|Štajerska]] | forest gnome vas, skrita v gozdu, tempelj Eldath | Keeva          |
+| Učilišče - Ognjena Pest                                     |                                                  | Taurus (Kiran) |
+| Zizola                                                      |                                                  | Alaric         |
+| utrdba Jarostin                                             |                                                  |                |
