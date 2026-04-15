@@ -6,21 +6,30 @@
 
 # Karakterji
 
-| **Karakter**        | **Kdo**                                                           | **Kje**                          | **Kakšen**      |
-| ------------------- | ----------------------------------------------------------------- | -------------------------------- | --------------- |
-| Ledena Kraljica     | mogočen stvor, bog?                                               | nezano, a blizu                  | ❄️:LiSnowflake: |
-| [[Campaign - Ledena Kraljica/Publish/Leofuld Hrotgar\|Leofuld Hrotgar]] | wizard, elektrika                                                 | verjetno v Deumisu               | 🌩              |
-| Pluto Mogočni       | wizard, fire; nickname: Esrim Fumgard                             |                                  | 🔥              |
-| Tudor Lučnik        | wizard, transmutation, Small chunky elf                           |                                  | 🐑              |
-| Ebenezer Tupl       | čarodej, požigalec                                                |                                  | 🔥              |
-| Dond                | trader                                                            |                                  | 💰              |
-| Baltazar            | preprodajalec magičnih predmetov, magična hiša: Magda             |                                  |                 |
-| Noris Noke          |                                                                   | hiding, barely survived          |                 |
-| Medo                | kolega od Alarica                                                 | verjetno Zizola                  |                 |
-| Geomira Tekton      | wizard (earth), human/dwarf, slepa                                |                                  | 🌍              |
-| Tara                | artificer                                                         |                                  |                 |
-| Sova                | dark elf (drow), rogue, izvidnica thieves guilda (Kaplje)         |                                  | 🌘:LiMoon:      |
-| Tamarien Šepetalec  | wizard                                                            | Deumis?                          |                 |
-| Ormir Ironfist      | Mercenary, Half Ice Dwarf / Half Frost Giant; Gork je njegov volk | ujet, nazadnje viden pri Trozidu |                 |
-| Fildur Glimmerblast | dwarf, čarodej, zadnji ki je skrbel za stolp Trozid, izginil      |                                  |                 |
+| **Karakter**        | **Kdo**                                                           | **Kje**                          | **Kakšen** |
+| ------------------- | ----------------------------------------------------------------- | -------------------------------- | ---------- |
+| Ledena Kraljica     | mogočen stvor, fae? bog?                                          | nezano, a blizu                  | ❄️         |
+| [[Campaign - Ledena Kraljica/Publish/Leofuld Hrotgar\|Leofuld Hrotgar]] | wizard, elektrika                                                 | verjetno v Deumisu               | 🌩         |
+| [[Campaign - Ledena Kraljica/Publish/Pluto Mogočni\|Pluto Mogočni]]   | wizard, fire; nickname: Esrim Fumgard                             |                                  | 🔥         |
+| Tudor Lučnik        | wizard, transmutation, Small chunky elf                           |                                  | 🐑         |
+| Ebenezer Tupl       | čarodej, požigalec                                                |                                  | 🔥         |
+| Dond                | trader, balon                                                     |                                  | 💰         |
+| Baltazar            | preprodajalec magičnih predmetov, magična hiša: Magda             |                                  |            |
+| Noris Noke          | nepridiprav                                                       | hiding, barely survived          |            |
+| Medo                | kolega od Alarica                                                 | verjetno Zizola                  |            |
+| Geomira Tekton      | wizard (earth), human/dwarf, slepa                                |                                  | 🌍         |
+| Tara                | artificer                                                         |                                  |            |
+| Sova                | dark elf (drow), rogue, izvidnica thieves guilda (Kaplje)         |                                  | 🌘         |
+| Tamarien Šepetalec  | wizard                                                            | Deumis?                          |            |
+| Ormir Ironfist      | Mercenary, Half Ice Dwarf / Half Frost Giant; Gork je njegov volk | ujet, nazadnje viden pri Trozidu |            |
+| Fildur Glimmerblast | dwarf, čarodej, zadnji ki je skrbel za stolp Trozid, izginil      |                                  |            |
 # Lokacije
+
+| Lokacija        | Kaj                                  | Info              |
+| --------------- | ------------------------------------ | ----------------- |
+| stolp Trozid    |                                      |                   |
+| Ivji Vrh        |                                      |                   |
+| Deumis          | glavno mesto kraljevine Deutanija 👑 |                   |
+| Štajerska       |                                      | tempelj Eldath    |
+| Zizola          |                                      | Alaric background |
+| utrdba Jarostin |                                      |                   |
