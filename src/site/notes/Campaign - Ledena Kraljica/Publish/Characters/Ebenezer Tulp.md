@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaign - Ledena Kraljica/Publish/Characters/Ebenezer Tulp/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Characters/Ebenezer Tulp.md","permalink":"/Characters/Ebenezer Tulp/","dg-note-properties":{}}
 ---
 
 čarodej, fire

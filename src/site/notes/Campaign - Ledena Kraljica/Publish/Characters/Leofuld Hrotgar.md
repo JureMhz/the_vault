@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaign - Ledena Kraljica/Publish/Characters/Leofuld Hrotgar/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Characters/Leofuld Hrotgar.md","permalink":"/Characters/Leofuld Hrotgar/","dg-note-properties":{}}
 ---
 
 Gnome wizard, prijazen, pameten, poln energije

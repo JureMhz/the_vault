@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaign - Ledena Kraljica/Publish/Places/Deumis/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Places/Deumis.md","permalink":"/Places/Deumis/","dg-note-properties":{}}
 ---
 
 Population: 50.000+ Buildings: 7000+

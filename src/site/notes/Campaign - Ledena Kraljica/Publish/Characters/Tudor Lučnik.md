@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaign - Ledena Kraljica/Publish/Characters/Tudor Lučnik/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Characters/Tudor Lučnik.md","permalink":"/Characters/Tudor Lučnik/","dg-note-properties":{}}
 ---
 
 Elf, wizard (master of transmutation)

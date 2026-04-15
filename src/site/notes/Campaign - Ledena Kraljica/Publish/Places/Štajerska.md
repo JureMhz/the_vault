@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaign - Ledena Kraljica/Publish/Places/Štajerska/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Places/Štajerska.md","permalink":"/Places/Štajerska/","dg-note-properties":{}}
 ---
 
 **Štajerska**, vas od Keeve

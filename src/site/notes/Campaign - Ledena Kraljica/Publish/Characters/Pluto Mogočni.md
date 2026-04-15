@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaign - Ledena Kraljica/Publish/Characters/Pluto Mogočni/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Characters/Pluto Mogočni.md","permalink":"/Characters/Pluto Mogočni/","dg-note-properties":{}}
 ---
 
 human, wizard, fire

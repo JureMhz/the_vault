@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaign - Ledena Kraljica/Publish/Ledena Kraljica/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Ledena Kraljica.md","permalink":"/Ledena Kraljica/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ![Ekipa banner.jpg](/img/user/data/unsorted%20attachments/Ekipa%20banner.jpg)
