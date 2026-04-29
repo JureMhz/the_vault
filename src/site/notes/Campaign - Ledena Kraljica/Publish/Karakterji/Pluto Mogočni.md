@@ -15,4 +15,4 @@ spremenil Medota v hrčka.
 **Stolp - Plutov škrlatni stolp**
 Škrlatno-rdeče barve (kot njegova obleka), se vsake toliko zlato iskri in svetlika.
 
-![Pluto Mogočni.jpg\|500](/img/user/Campaign%20-%20Ledena%20Kraljica/Ledena%20Kraljica%20-%20Database/NPCs%20-%20photos/Pluto%20Mogo%C4%8Dni.jpg)
+![Pluto Mogočni.jpg\|500](/img/user/Campaign%20-%20Ledena%20Kraljica/_data/NPCs/_NPCs%20photos/Pluto%20Mogo%C4%8Dni.jpg)

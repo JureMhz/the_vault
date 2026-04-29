@@ -16,8 +16,8 @@ Zelo pazijo kdo je vreden da pride v mesto
 Rabiš njihov “potni list”, preverjajo tudi tar tako vmes na podeželju.
 Ne marajo popotnikov (prinašajo probleme).
 
-![city_castle_Flip.jpg\|500](/img/user/data/Images/Notion%20NEW%20files/city_castle_Flip.jpg)
+![Deumis (glavno mesto Deutanije).jpg\|500](/img/user/data/Images/LEDENA%20KRALJICA%20photos/locations/Deumis%20(glavno%20mesto%20Deutanije).jpg)
 
 # Mapa Deumisa
 
-![deumis EDIT.jpg](/img/user/Campaign%20-%20Ledena%20Kraljica/Ledena%20Kraljica%20-%20Database/LOCATIONs/deumis%20EDIT.jpg)
+![deumis EDIT.jpg](/img/user/data/deumis%20EDIT.jpg)

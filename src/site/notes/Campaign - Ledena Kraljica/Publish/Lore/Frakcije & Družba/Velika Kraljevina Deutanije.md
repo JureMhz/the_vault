@@ -9,7 +9,7 @@ Kralj je predanim vojvodam s pogodbo dal moč in surovine da obdržijo pod kontr
 
 Stara načela, rigiden sistem, vojska, izobraževanje (austro-ogrska, nemčija)
 Staro bogastvo, trgovanje, farming, conquering resources
-Voditelji: Odred Mogočnih Čarodejev vodi kraljevino ([[Campaign - Ledena Kraljica/Publish/Karakterji/Pluto Mogočni\|Pluto Mogočni]], [[Campaign - Ledena Kraljica/Publish/Karakterji/Leofuld Hrotgar\|Leofuld Hrotgar]], [[Tamarien Šepetalec\|Tamarien Šepetalec]], [[Campaign - Ledena Kraljica/Ledena Kraljica - Database/NPCs/Geomira Tekton\|Geomira Tekton]],...)
+Voditelji: Odred Mogočnih Čarodejev vodi kraljevino ([[Campaign - Ledena Kraljica/Publish/Karakterji/Pluto Mogočni\|Pluto Mogočni]], [[Campaign - Ledena Kraljica/Publish/Karakterji/Leofuld Hrotgar\|Leofuld Hrotgar]], [[Tamarien Šepetalec\|Tamarien Šepetalec]], [[Campaign - Ledena Kraljica/_data/NPCs/Geomira Tekton\|Geomira Tekton]],...)
 
 Rase: Humans, ostali malo mešano; + lower klasa: goblini, orki, elfi, tieflingi, vsi ostali ne-humani. Niso odprti do drugih (non-human) ras.
 
