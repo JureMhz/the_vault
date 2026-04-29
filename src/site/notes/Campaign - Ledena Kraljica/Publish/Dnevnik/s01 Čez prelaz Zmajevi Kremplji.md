@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Dnevnik/s01 Čez prelaz Zmajevi Kremplji.md","permalink":"/Dnevnik/s01 Čez prelaz Zmajevi Kremplji/","dg-note-properties":{}}
 ---
 
-#### Gandar
+### Gandar
 (Gandar, Alaric, Aur, Wren)
 No, v **Zimorogu** sem spet zgrešil **Varamirja**, je šel naprej v **Ivji vrh**. **Grista** Stonefoot je bila edina, ki je bila takrat nemudoma pripravljena peljat čez prelaz **Zmajevi kremplji** do Ivjega vrha, tako da sem se ji kar pridružil. Pa nisem bil edini. Zraven so šli še dva vilinca pa en owlin. Njihovo orožje je bilo lepo vzdrževano, čeprav niso bili vojščaki. Kako nekdo skrbi za svoje rezilo, veliko pove o njemu.  
 Dobra družba, res.  

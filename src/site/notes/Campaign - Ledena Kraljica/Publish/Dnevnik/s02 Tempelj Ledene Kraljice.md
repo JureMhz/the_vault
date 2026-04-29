@@ -2,3 +2,10 @@
 {"dg-publish":true,"dg-path":"Dnevnik/s02 Tempelj Ledene Kraljice.md","permalink":"/Dnevnik/s02 Tempelj Ledene Kraljice/","dg-note-properties":{}}
 ---
 
+### Alaric - Duh ledene kraljice
+(Alaric, Gandar, Aur, Wren)
+Najin beg iz Zizole je namesto olajšanja prinesel samo več težav na vsakem koraku!  
+Najprej smo brez večjih težav prebutali gobline, ki so nam ukradli stvari. Ker je bilo dovolj prelite krvi, smo ta velikega goblina pustili pri življenju. S seboj so imeli tudi enega večjega volka, ki je izgledal udomačen, vendar se ni pustil pobožati. Kar naprej nas je želel ugrizniti v vrat. Slaba vzgoja! Zato smo stvari vzeli v svoje roke, ga onesposobili in vzeli s sabo. Našli smo tudi vse naše stvari, Gristino skrinjo in nekakšne čudne sveče.  
+No, Ormir (goblin) in Gork (volk) sta bila del odprave, ki je iskala zaklad pod površjem jezera. Poslal jih je Esrim Fumgard. Navdušeni nad zakladom, smo se odpravili iskati kraj vstopa pod površje jezera. Čeprav nam je snežni vihar oteževal orientacijo, smo ga z mojstrskim stezosledstvom hitro našli. V izjemno pomoč so nam bile tiste čudne sveče, ki so gorele tako kot kres.  
+Pod površjem jezera smo našli nekakšen tempelj. Tam se nam je pridružila tudi modra lučka, ki nam je osvetljevala pot in pomagala rešiti uganke. Ampak! Izkazalo se je namreč, da nas ni vodila z dobrimi nameni. Kajti ko je Aur prebral zapis v zaledeneli sobani, se je prebudil nekakšen zlovešč duh, ki je govoril kako jih bo vse pobil. Pa še Gandarju je ukradel ime, preden je odbil strop in pobegnil neznano kam. Iz ledu sobane je to prebudilo ogromnega ledenega črva in njegove ledene pajdaše. Bitka je bila grozljiva. Najprej nas je presenetil črv, ki je kot za šalo zbil našega Gandarja na tla, nato pa še njegovi pajdaši, ki so ob svoji smrti eksplodirali in deževali ledene igle na nas. Po začetnem kaosu smo se zbrali in uspešno premagali sovražnike.  
+Res ni dovolj, da se počutim krivega za mojega Meda? Zdaj bom imel na vesti še vsa življenja, ki jih bo ta zli duh končal.
