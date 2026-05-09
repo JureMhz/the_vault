@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Ledena Kraljica.md","permalink":"/Ledena Kraljica/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-![Ekipa banner.jpg](/img/user/data/unsorted%20attachments/Ekipa%20banner.jpg)
+![Ekipa banner.jpg](/img/user/data/Images/Ekipa%20banner.jpg)
 
 # Karakterji
 
@@ -38,4 +38,4 @@
 
 # Grunvaldor mapa (by Dond)
 
-![Grunvaldor by Dond.png](/img/user/Grunvaldor%20by%20Dond.png)
+![[data/Images/Grunvaldor by Dond.png\|data/Images/Grunvaldor by Dond.png]]
