@@ -1,0 +1,42 @@
+{
+  "/": [
+    "Dnevnik",
+    "Karakterji",
+    "Lokacije",
+    "Lore",
+    "Homebrew",
+    "Ledena Kraljica"
+  ],
+  "/Dnevnik": [
+    "Dnevnik",
+    "s01 Čez prelaz Zmajevi Kremplji",
+    "s02 Tempelj Ledene Kraljice",
+    "s03 Stolp Trozid",
+    "s04 pot do Ivjiega Vrha",
+    "s05 Ivji Vrh - festival zimskih iger",
+    "s06 potopljen Tempelj Eldath",
+    "s07 Ovca Tudor",
+    "s08 očvirje sanj"
+  ],
+  "/Karakterji": [
+    "Ebenezer Tulp",
+    "Leofuld Hrotgar",
+    "Pluto Mogočni",
+    "Tudor Lučnik"
+  ],
+  "/Lokacije": [
+    "Deumis",
+    "Štajerska"
+  ],
+  "/Lore": [
+    "Frakcije & Družba",
+    "Grunvaldor (mape)"
+  ],
+  "/Lore/Frakcije & Družba": [
+    "Velika Kraljevina Deutanije"
+  ],
+  "/Homebrew": [
+    "Mage Duel (Counterspelling) 💫",
+    "Resting"
+  ]
+}
