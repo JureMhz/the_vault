@@ -38,4 +38,4 @@
 
 # Grunvaldor mapa (by Dond)
 
-![[data/Images/Grunvaldor by Dond.png\|data/Images/Grunvaldor by Dond.png]]
+![Grunvaldor by Dond.png](/img/user/Worldbuilding/images/Grunvaldor%20by%20Dond.png)
