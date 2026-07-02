@@ -36,3 +36,5 @@ Inspiration can get you:
 - One free attack or spellcast
 - Free reaction
 - What happens if more players use inspiration at once?
+
+![party dragon attack ruins city.jpg](/img/user/party%20dragon%20attack%20ruins%20city.jpg)
