@@ -26,15 +26,15 @@
 | Grishna Grozny                                                                 | orkovski "poet"                                                   |                                  |            |
 # Lokacije
 
-| **Lokacija**                                                | **Kaj**                                          | **Info**       |
-| ----------------------------------------------------------- | ------------------------------------------------ | -------------- |
-| stolp Trozid                                                |                                                  |                |
-| Ivji Vrh                                                    |                                                  |                |
-| [[Campaign - Ledena Kraljica/Publish/Lokacije/Deumis\|Deumis]]                                                  | glavno mesto kraljevine Deutanija 👑             |                |
+| **Lokacija**                                                         | **Kaj**                                          | **Info**       |
+| -------------------------------------------------------------------- | ------------------------------------------------ | -------------- |
+| stolp Trozid                                                         |                                                  |                |
+| Ivji Vrh                                                             |                                                  |                |
+| [[Campaign - Ledena Kraljica/Publish/Lokacije/Deumis\|Deumis]]                                                           | glavno mesto kraljevine Deutanija 👑             |                |
 | [[Campaign - Ledena Kraljica/Publish/Lokacije/Štajerska\|Štajerska]] | forest gnome vas, skrita v gozdu, tempelj Eldath | Keeva          |
-| Učilišče - Ognjena Pest                                     |                                                  | Taurus (Kiran) |
-| Zizola                                                      |                                                  | Alaric         |
-| utrdba Jarostin                                             |                                                  |                |
+| Učilišče - Ognjena Pest                                              |                                                  | Taurus (Kiran) |
+| Zizola                                                               |                                                  | Alaric         |
+| utrdba Jarostin                                                      |                                                  |                |
 
 # Grunvaldor mapa (by Dond)
 
