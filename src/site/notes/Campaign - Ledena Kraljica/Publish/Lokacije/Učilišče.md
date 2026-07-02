@@ -6,7 +6,7 @@
 Glavni mag: [[Campaign - Ledena Kraljica/NPCs/All NPCs/Leminar Lubsar\|Leminar Lubsar]], dwarf old, earth magic
 Govorice da se mu je zmešalo in je zbežal.
 
-**Učilišče zdaj**: je spremenjeno v vojaški camp pod okriljem [[Campaign - Ledena Kraljica/NPCs/All NPCs/Ebenezer Tulp\|Ebenezer Tulp]]. 
+**Učilišče zdaj**: je spremenjeno v vojaški camp pod okriljem [[Campaign - Ledena Kraljica/Publish/Karakterji/Ebenezer Tulp\|Ebenezer Tulp]]. 
 Samo fire magic. Zavarovan perimeter, dostop ni dovoljen.
 Sredi dvorišča je ogromen Infernal Fire.
 
