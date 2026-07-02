@@ -8,7 +8,7 @@ Once per day, downtime: DC14 INT, tinkering with alchemy set (okvirno 2h).
 Must have 6 successful stages of learning.
 #### Uporaba
 - Vsake sestavine je dovolj za 3 uporabe ("use")
-- Da ugovotiš prvi osnovni efekt, ga lahko vzameš direkt (kot Skrim). Močnejši imajo več efektov. To je en "use".
+- Da ugovotiš prvi osnovni efekt, ga lahko vzameš direkt (kot Skyrim). Močnejši imajo več efektov. To je en "use".
 - Items se delijo po rarity (rarity = potency)
 - Lahko združiš 2x use, da narediš močnejši extract (higher potency), ima šanso da ne rata.
 ###### Do sedaj nabrane sestavine:
