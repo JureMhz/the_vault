@@ -15,6 +15,7 @@
     - Used on an ally is an Action: normal HP dice roll (_4-10_)  
     - If thrown: normal HP dice roll (roll To Hit; range 20/60; heal radius 5 ft.)
 - You can use **Help** action to get Downed PC to 1HP. You can use also a bonus action and roll Medicine to heal the PC to that amount of HP.
+- Healing spells (can) **damage** undead.
 #### Combat and damage
 - **Initiative**: 1d6 + DEX or WIS modifier. *It's less random and has more sense with many different playstyles.*
 - **Critical hit** is normal damage die + max damage. 
@@ -37,4 +38,4 @@ Inspiration can get you:
 - Free reaction
 - What happens if more players use inspiration at once?
 
-![party dragon attack ruins city.jpg](/img/user/party%20dragon%20attack%20ruins%20city.jpg)
+![Nimble - attack.jpg](/img/user/Nimble%205e/Nimble%20-%20attack.jpg)
