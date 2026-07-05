@@ -26,6 +26,7 @@
 - **Shield Bash** is possible as improvised attack with as bonus action off-hand attack. 1d4+STRmod bludgeoning damage.
 - **Pushing** into a wall: take 1d6 extra damage for every 5ft of push movement stopped by hard surface *(a wall)*.
 - **Falling**: 1d6 per 5ft (no maximum). Jumping willingly reduces damage by 2d6 (ie: 10 ft; 3m), or more with super successful athletics check.
+  *Terminal velocity of fully plated orc paladin is 200km/h, reaching maximum speed at around 1000ft (300m). That's about 200d6 damage. Falling takes around 9 seconds, that's 1,5 rounds of time to cast Feather Fall.*
 #### Class specific
 - **Reckless Attack** as a reaction (Barbarian).
 #### Inspiration (homebrew upgrade)
