@@ -13,7 +13,7 @@
 | [[Campaign - Ledena Kraljica/Publish/Karakterji/Pluto Mogočni\|Pluto Mogočni]]                                                              | wizard, fire; nickname: Esrim Fumgard                             |                                  | 🔥         |
 | [[Campaign - Ledena Kraljica/Publish/Karakterji/Tudor Lučnik\|Tudor Lučnik]]                                                               | wizard, transmutation, Small chunky elf                           |                                  | 🐑         |
 | [[Campaign - Ledena Kraljica/Publish/Karakterji/Ebenezer Tulp\|Ebenezer Tulp]] | čarodej, požigalec                                                |                                  | 🔥         |
-| Dond                                                                           | trader, balon                                                     |                                  | 💰         |
+| [[Campaign - Ledena Kraljica/Publish/Karakterji/Dond\|Dond]]                                                                       | trader, balon                                                     |                                  | 💰         |
 | Baltazar                                                                       | preprodajalec magičnih predmetov, magična hiša: Magda             |                                  |            |
 | Noris Noke                                                                     | nepridiprav                                                       | hiding, barely survived          |            |
 | Medo                                                                           | kolega od Alarica                                                 | verjetno Zizola                  |            |

@@ -16,4 +16,4 @@ If you sleep in a bed, you recover half of max hit dice (rounded up).
 ❤️‍🩹 **Full heal, recovers all hit dice**
 Roleplay: Could be up to a week or month, depending of severity of stress to body and mind and comfort and quality of resting.
 
-![Taurus campfire.jpg\|500](/img/user/Taurus%20campfire.jpg)
+![Taurus campfire.jpg\|500](/img/user/data/Images/Taurus%20campfire.jpg)

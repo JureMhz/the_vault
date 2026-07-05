@@ -15,4 +15,4 @@ Must have 6 successful stages of learning.
 https://docs.google.com/spreadsheets/d/1sob16ctoagdmgWzgeF-LFkJfC0ObVg2fgRWfId9EVRc/edit?gid=0#gid=0
 
 
-![alchemy and such EDIT.png](/img/user/alchemy%20and%20such%20EDIT.png)
+![alchemy and such EDIT.png](/img/user/data/Images/alchemy%20and%20such%20EDIT.png)

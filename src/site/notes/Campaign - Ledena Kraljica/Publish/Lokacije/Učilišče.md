@@ -12,4 +12,4 @@ Sredi dvorišča je ogromen Infernal Fire.
 
 
 Po spominu Taurusa:
-![Učilišče po spominu Taurusa (smaller) EDIT3.png](/img/user/U%C4%8Dili%C5%A1%C4%8De%20po%20spominu%20Taurusa%20(smaller)%20EDIT3.png)
+![Učilišče po spominu Taurusa (smaller) EDIT3.png](/img/user/data/Images/U%C4%8Dili%C5%A1%C4%8De%20po%20spominu%20Taurusa%20(smaller)%20EDIT3.png)
