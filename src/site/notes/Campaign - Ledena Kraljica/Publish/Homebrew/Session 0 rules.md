@@ -27,6 +27,18 @@
 - **Pushing** into a wall: take 1d6 extra damage for every 5ft of push movement stopped by hard surface *(a wall)*.
 - **Falling**: 1d6 per 5ft (no maximum). Jumping willingly reduces damage by 2d6 (ie: 10 ft; 3m), or more with super successful athletics check.
   *Terminal velocity of fully plated orc paladin is 200km/h, reaching maximum speed at around 1000ft (300m). That's about 200d6 damage. Falling takes around 9 seconds, that's 1,5 rounds of time to cast Feather Fall.*
+- **Permanent Injury** instead of Death
+	  As an alternative to dying, you can apply one of the following permanent injuries, either by rolling a 1d10 or choosing a method you think is appropriate for the injury or seems like the appropriate hindrance for the character. Effect can be cured or lessened with time and appropriate measures.
+	  1. **Limping**. Speed is reduced by 5ft. *Your leg isn't what it used to be*
+	  2. **One-Eyed**. Disadvantage on ranged attacks beyond 30. *You're missing an eye.*
+	  3. **Trauma**. Disadvantage on initiative rolls. *You startle easy.*
+	  4. **Cracked Ribs**. Take 2d6 damage when using the Dash action. *Your chest hurts when you run.*
+	  5. **Bad Shoulder**. Disadvantage on Dexterity saving throws. *Your shoulder hinders quick movement.*
+	  6. **Irregular Heart**. You have disadvantage on constitution saving throws. *Your heart can skip a beat.*
+	  7. **Fractured Skull**. You have disadvantage on wisdom saving throws. *Your mind fails you at the worst of times.*
+	  8. **Phantom Pain**. You when you take damage, you take additional damage equal to your proficiency bonus. *Your wound keeps acting up.*
+	  9. **Tremors**. You have disadvantage on attack rolls and ability checks that use dexterity. *Your hands won't stop shaking.*
+	  10. **Spinal Injury**. Your carrying capacity is halved. *Your spine buckles under pressure.*
 #### Class specific
 - **Reckless Attack** as a reaction (Barbarian).
 #### Inspiration (homebrew upgrade)
