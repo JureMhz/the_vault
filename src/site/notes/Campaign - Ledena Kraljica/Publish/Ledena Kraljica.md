@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Ledena Kraljica.md","permalink":"/Ledena Kraljica/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-![Ekipa banner.jpg](/img/user/data/Images/Ekipa%20banner.jpg)
+![Bitka za Štajersko RMX.jpg](/img/user/data/Images/LEDENA%20KRALJICA%20photos/Bitka%20za%20%C5%A0tajersko%20RMX.jpg)
 
 # Karakterji
 
@@ -14,12 +14,12 @@
 | [[Campaign - Ledena Kraljica/Publish/Karakterji/Tudor Lučnik\|Tudor Lučnik]]                                                               | wizard, transmutation, Small chunky elf                           |                                  | 🐑         |
 | [[Campaign - Ledena Kraljica/Publish/Karakterji/Ebenezer Tulp\|Ebenezer Tulp]] | čarodej, požigalec                                                |                                  | 🔥         |
 | [[Campaign - Ledena Kraljica/Publish/Karakterji/Dond\|Dond]]                                                                       | trader, balon                                                     |                                  | 💰         |
-| Baltazar                                                                       | preprodajalec magičnih predmetov, magična hiša: Magda             |                                  |            |
+| [[Campaign - Ledena Kraljica/Publish/Karakterji/Baltazar\|Baltazar]]           | preprodajalec magičnih predmetov, magična hiša: Magda             | nekje na jugu                    |            |
 | Noris Noke                                                                     | nepridiprav                                                       | hiding, barely survived          |            |
 | Medo                                                                           | kolega od Alarica                                                 | verjetno Zizola                  |            |
-| Geomira Tekton                                                                 | wizard (earth), human/dwarf, slepa                                |                                  | 🌍         |
+| Geomira Tekton                                                                 | wizard (earth), human/dwarf, slepa                                | Deumis?                          | 🌍         |
 | Tara                                                                           | artificer                                                         |                                  |            |
-| Sova                                                                           | dark elf (drow), rogue, izvidnica thieves guilda (Kaplje)         |                                  | 🌘         |
+| Sova                                                                           | dark elf (drow), rogue, izvidnica thieves guilda (Kaplje)         | Deumis?                          | 🌘         |
 | Tamarien Šepetalec                                                             | wizard                                                            | Deumis?                          |            |
 | Ormir Ironfist                                                                 | Mercenary, Half Ice Dwarf / Half Frost Giant; Gork je njegov volk | ujet, nazadnje viden pri Trozidu |            |
 | Fildur Glimmerblast                                                            | dwarf, čarodej, zadnji ki je skrbel za stolp Trozid, izginil      |                                  |            |

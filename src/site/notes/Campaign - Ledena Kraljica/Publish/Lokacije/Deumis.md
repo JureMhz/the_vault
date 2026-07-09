@@ -20,4 +20,4 @@ Ne marajo popotnikov (prinašajo probleme).
 
 # Mapa Deumisa
 
-![deumis EDIT.jpg](/img/user/Grunvaldor%20(world)/LOCATIONs/Deumis/deumis%20EDIT.jpg)
+![deumis EDIT.jpg](/img/user/Grunvaldor%20(world)/All%20Locations/Deumis/deumis%20EDIT.jpg)
