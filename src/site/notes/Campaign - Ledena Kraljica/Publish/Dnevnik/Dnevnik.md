@@ -2,6 +2,10 @@
 {"dg-publish":true,"dg-path":"Dnevnik/Dnevnik.md","permalink":"/Dnevnik/Dnevnik/","dg-note-properties":{}}
 ---
 
+#### Zgodba o pogumnem popotovanju druščine - *by Maša*
+https://docs.google.com/document/d/1_0DDE9BJNA_xYN6UdWS96M2CqXrYELfD8IJs0it3i0c/edit?tab=t.0#heading=h.wqu51l8ythqc
+
+#### Dnevnik po sessionih
 
 | Session    | ime                                                              | happening                                                     | kdo                                       |
 | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------- |

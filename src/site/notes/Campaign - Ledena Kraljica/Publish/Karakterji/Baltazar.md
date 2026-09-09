@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Karakterji/Baltazar.md","permalink":"/Karakterji/Baltazar/","tags":["#NPC"],"dg-note-properties":{"Used":true,"image":"[Baltazar.png](/img/user/Campaign%20-%20Ledena%20Kraljica/NPCs/_NPCs%20photos/Baltazar.png)","tags":["#NPC"]}}
+{"dg-publish":true,"dg-path":"Karakterji/Baltazar.md","permalink":"/Karakterji/Baltazar/","tags":["NPC"],"dg-note-properties":{"Used":true,"image":"[Baltazar.png](/img/user/Campaign%20-%20Ledena%20Kraljica/NPCs/_NPCs%20photos/Baltazar.png)","tags":["NPC"]}}
 ---
 
 
@@ -19,7 +19,7 @@ se je s hišo vred teleportiral nekam, zbežal na jug
 **Kiran** / **Taurus** session - Heist
 Party je moral ukrasti "eldritch blaster"
 
-![Magda 1.jpeg\|500](/img/user/data/Images/Magda%201.jpeg)
+![Magda 1.jpeg\|500](/img/user/data/Images/random/Magda%201.jpeg)
 
-![Magda 2.jpeg\|500](/img/user/data/Images/Magda%202.jpeg)
+![Magda 2.jpeg\|500](/img/user/data/Images/random/Magda%202.jpeg)
 

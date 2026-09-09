@@ -7,4 +7,4 @@
 Zažgan gozd okoli. (Ebenezer Tulp)
 S pomočjo magije ilizije od druidov bližnjega Eldath templja, se skrivajo pred goblini in ostalim svetom
 
-![Worldbuilding/images/Štajerska.png\|700](/img/user/Worldbuilding/images/%C5%A0tajerska.png)
+![Worldbuilding/images/Štajerska.jpg\|700](/img/user/Worldbuilding/images/%C5%A0tajerska.jpg)

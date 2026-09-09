@@ -5,7 +5,7 @@
 ## 💫 Homebrew Counterspell Mechanic
 This system replaces the standard *Counterspell* spell, so that all spellcasters can try to counter a spell.
 The counterspell must be logically opposed (e.g., Fire → Water, Teleport → Restraint).
-![IMG_4597.png](/img/user/data/Images/IMG_4597.png)
+![IMG_4597.png](/img/user/data/Images/random/IMG_4597.png)
 
 
 **Odstranitev** uroka _Counterspell_. Uroki se kontrirajo z **logično nasprotnimi** uroki (npr. _Fireball_ $\rightarrow$ _Create Water_, _Misty Step_ $\rightarrow$ _Hold Person_).

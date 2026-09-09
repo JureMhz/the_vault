@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Ledena Kraljica.md","permalink":"/Ledena Kraljica/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-![Bitka za Štajersko RMX.jpg](/img/user/data/Images/LEDENA%20KRALJICA%20photos/Bitka%20za%20%C5%A0tajersko%20RMX.jpg)
+![Bitka za Štajersko RMX.jpg](/img/user/Campaign%20-%20Ledena%20Kraljica/images/Bitka%20za%20%C5%A0tajersko%20RMX.jpg)
 
 # Karakterji
 
