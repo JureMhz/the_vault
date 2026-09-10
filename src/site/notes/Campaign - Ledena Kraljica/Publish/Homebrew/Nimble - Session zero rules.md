@@ -15,11 +15,14 @@
     - If thrown: normal dice roll, if there is any 1 rolled, the attempt fails (range 20/60)
 - Healing (spells, potions,...) can **damage** undead.
 #### Combat and damage
-- **Initiative**: 1d6 + DEX or WIS modifier. 0-3 = 1AP;   4,-5 = 2AP   6+ = 3AP   *It's less random and has more sense with many different playstyles.*
+- **Initiative**: 1d6 + DEX or WIS modifier.  *It's less random and has more sense with many different playstyles.*
+  **0-3** = 1 actions 
+  **4-6** = 2 actions 
+  **7+** = 3 actions 
 - **Opportunity attacks** fast of a lot of monsters cam trigger Opportunity attacks.
 - **Couterspell**: see [[Campaign - Ledena Kraljica/Publish/Homebrew/Mage Duel (Counterspelling) 💫\|Mage Duel (Counterspelling) 💫]]
 ---
-==popravljeno do tu==
+== do tu popravljeno iz DnDja==
 - - -
 - Allow normal “**2 weapon fighting**” rule with **unarmed** strikes, left and right hand/leg. You don't add your ability modifier in that bonus attack.
 - **Shield Bash** is possible as improvised attack with as bonus action off-hand attack. 1d4+STRmod bludgeoning damage.
@@ -39,7 +42,7 @@
 	  9. **Tremors**. You have disadvantage on attack rolls and ability checks that use dexterity. *Your hands won't stop shaking.*
 	  10. **Spinal Injury**. Your carrying capacity is halved. *Your spine buckles under pressure.*
 #### Inspiration (homebrew upgrade)
-Other players can suggest an inspiration for coplayer for doing extra heroic deeds.
+**Other players can suggest an inspiration for coplayer for doing extra heroic deeds.**
 Inspiration can get you:
 - Advantage on any d20 roll
 - Turn hit into a crit
